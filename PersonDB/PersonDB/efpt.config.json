@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"Persondb2Context","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models","ProjectRootNamespace":"PersonDB","SelectedToBeGenerated":0,"Tables":["dbo.Account","dbo.Bank","dbo.Customer","dbo.Transaction"],"UseDatabaseNames":false,"UseFluentApiOnly":false,"UseHandleBars":false,"UseInflector":false}

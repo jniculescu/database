@@ -1,0 +1,11 @@
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\bin\Debug\netcoreapp2.0\PersonDB.deps.json
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\bin\Debug\netcoreapp2.0\PersonDB.runtimeconfig.json
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\bin\Debug\netcoreapp2.0\PersonDB.runtimeconfig.dev.json
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\bin\Debug\netcoreapp2.0\PersonDB.dll
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\obj\Debug\netcoreapp2.0\PersonDB.csprojResolveAssemblyReference.cache
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\obj\Debug\netcoreapp2.0\PersonDB.csproj.CoreCompileInputs.cache
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\obj\Debug\netcoreapp2.0\PersonDB.AssemblyInfoInputs.cache
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\obj\Debug\netcoreapp2.0\PersonDB.AssemblyInfo.cs
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\bin\Debug\netcoreapp2.0\PersonDB.pdb
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\obj\Debug\netcoreapp2.0\PersonDB.dll
+C:\Users\jani\Desktop\Dev-school\database\PersonDB\PersonDB\obj\Debug\netcoreapp2.0\PersonDB.pdb
